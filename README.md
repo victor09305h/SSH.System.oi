@@ -1,4 +1,4 @@
-# # System SSH
+# System SSH
 System feito em exclusividade para a Policia SSH (Sistema Secreto Habbiano) do Habbo Hotel BR/PT.
 
 > O que é um System?
